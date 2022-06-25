@@ -47,7 +47,7 @@ import { createTheme } from '@mui/material/styles';
    return (
      <>
        <Head>
-         <title>{title ? `${title} - Sanity Amazona` : 'Sanity Amazona'}</title>
+         <title>{title ? `${title} - Sanity Lions Sportwear` : 'Sanity LionsSportwear'}</title>
          {description && <meta name="description" content={description}></meta>}
        </Head>
        <ThemeProvider theme={theme}>
