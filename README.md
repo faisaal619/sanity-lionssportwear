@@ -101,3 +101,7 @@
     1.  create profile screen
     2.  craete input forms for name, email
     3.  update user info
+28. Create Search Screen
+    1.  create search screen
+    2.  implement search filters
+    3.  list products
